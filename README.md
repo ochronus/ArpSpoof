@@ -24,3 +24,7 @@ Argument 5: Specify the router IP address (Only needed if Arp Poisoning)
 e.g.:
 
 ruby spoofit.rb en0 T T $1 10.0.2.25
+
+see 'bolocookie.txt' for supported domains and cookie names. You can add your own.
+
+You will find the stolen twitter or facebook cookies in txt files.

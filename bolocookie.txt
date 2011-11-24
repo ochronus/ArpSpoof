@@ -1,0 +1,2 @@
+.facebook.com:c_user:datr:sct:xs
+.twitter.com:_twitter_sess:auth_token
