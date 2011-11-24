@@ -9,11 +9,16 @@ Usage
 =====
 
 ruby spoofit.rb {interface} {T|F} {T|F} [victim IP] [router IP] 
+
 Argument 1: Specify the poisoning / listening interface
+
 Argument 2: Verbose output?
+
 Argument 3: Do you want to perform Arp Poisoning? (This is left as an option to give you the opportunity to handle
             traffic monitoring on your own if so desired)
+            
 Argument 4: Specify the victim IP address (Only needed if Arp Poisoning)
+
 Argument 5: Specify the router IP address (Only needed if Arp Poisoning)
 
 e.g.:
